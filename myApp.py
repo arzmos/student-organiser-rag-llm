@@ -92,7 +92,7 @@ HTML_TEMPLATE = '''
 '''
 
 # Configure Gemini directly with API key
-genai.configure(api_key="AIzaSyDpTvl6KQLte4DksHn83iYDbhZlARYig8Y")
+genai.configure(api_key="")
 model = genai.GenerativeModel('gemini-pro')
 
 app = Flask(__name__)
