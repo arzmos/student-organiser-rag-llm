@@ -1,0 +1,4 @@
+gradio
+flask
+google-generativeai
+scikit-learn
