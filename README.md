@@ -1,4 +1,4 @@
-# student-organiser-rag-llm(Flask-Based RAG QA System)
+# student-organiser-rag-llm
 
 # Flask-Based RAG QA System
 
