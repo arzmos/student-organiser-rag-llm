@@ -1,6 +1,6 @@
 # student-organiser-rag-llm
 
-# Flask-Based RAG QA System
+## Flask-Based RAG QA System
 
 A Flask-based **Retrieval-Augmented Generation (RAG)** chatbot application that integrates **Google's Gemini AI**, **TF-IDF similarity search**, and **document retrieval** from PDFs and web pages.
 
@@ -42,13 +42,13 @@ The app will be accessible at `http://localhost:8080/`.
 
 ## 📝 Example Queries
 
-- "What are the latest advancements in AI?"
-- "Summarize this PDF document."
-- "Extract key points from this webpage."
+- "How should I ask for help to solve a problem?"
+- "What should I put in my technical diary?"
+- "When are the final presentations due for the summer intake 2024/2025?" 
 
 ## 🔬 Performance Evaluation
 
-- **Query Response Time**: \~10-20 seconds
+- **Query Response Time**: \~2-10 seconds
 - **Accuracy**: High relevance in retrieval, dependent on Gemini AI’s response generation
 
 ### Accuracy Evaluation Methodology:
